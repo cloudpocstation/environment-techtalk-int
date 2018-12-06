@@ -10,3 +10,6 @@ dependencies:
 - name: micro
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.45
+- name: micro-db
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 1.0.2
